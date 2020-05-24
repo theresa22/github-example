@@ -1,2 +1,1 @@
-i
 print("Hello Github!")
